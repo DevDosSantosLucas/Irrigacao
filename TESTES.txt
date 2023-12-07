@@ -1,0 +1,31 @@
+[] Caixa d'agua deve ter prioridade quando o sensor de nivel baixo detectar ausencia da agua
+
+[] Caixa d'agua deve parar de encher quando o sensor de nivel alto detectar agua no topo
+
+[] O Rele da bomba deve para imediatamente quando a caixa'd'agua encher.
+
+ 
+[] Irrigacao deve ocorrer quando for o primeiro horario
+
+[] Irrigacao deve ocorrer quando for o segundo horario
+
+[] Caixa d'agua deve acionar se estiver esvaziando, ou seja, quando o sensor de nivel alto nao tiver água e o sensor de nivel baixo  tiver água, para que possa seguir com a irrigação.
+
+
+[] Irrigacao deve ser alterada a cada 30 min
+
+[] Caso a caixa d'agua estiver vazia, deve parar a irrigação e acionar a caixa
+
+[] Quando a caixa encher, deve-se retornar a irrigação no rele de onde parou
+
+[] Caixa d'agua deve acionar se estiver esvaziando, ou seja, quando o sensor de nivel alto nao tiver água e o sensor de nivel baixo  tiver água, quando acabar a irrigação.
+
+[] O Rele da bomba deve para imediatamente quando a irrigação e/ou a caixa d'agua para.
+
+[]
+[]
+[]
+[]
+[]
+[]
+[][][][][][][][][][][
